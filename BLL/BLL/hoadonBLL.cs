@@ -175,6 +175,7 @@ namespace BLL.BLL
             }
         }
 
+
         // R - READ (ALL): Lấy Hóa đơn theo keywork
         public List<hoadonViewModel> LayTatCaHoaDonViewModelTheoKeywork(string keyword, string id_chutro)
         {
@@ -197,6 +198,9 @@ namespace BLL.BLL
                 return query.ToList();
             }
         }
+
+     
+
 
         // R - READ (ALL): Lấy Hóa đơn chưa thanh toán
         public List<hoadonViewModel> LayHoaDonChuaThanhToan(string id_chutro)
@@ -338,5 +342,7 @@ namespace BLL.BLL
                 }
             }
         }
+
+       
     }
 }

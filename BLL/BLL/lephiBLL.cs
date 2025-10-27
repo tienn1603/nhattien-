@@ -1,10 +1,11 @@
 ﻿using DAL.Model;
+using DAL.ViewModel;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
 
 
 namespace BLL.BLL
@@ -33,19 +34,68 @@ namespace BLL.BLL
         }
 
         //R - READ (BY ID): Lấy Lệ phí theo ID của hóa đơn
-        public lephi LayBanGhiLePhiTheoHoaDonId(string id_hoadon)
+
+
+
+        public List<lephiViewModel> LayBanGhiLePhiTheoHoaDonId(string id_chutro)
         {
             using (var dbContext = new ContextDB())
             {
-                // Tìm Hóa đơn, sau đó truy xuất chi tiết Lệ Phí
-                // Sử dụng Include(hd => hd.lephi) để tải chi tiết Lệ Phí
-                var hoadon = dbContext.hoadons
-                                       .Include(hd => hd.lephi)
-                                       .FirstOrDefault(hd => hd.id_hoadon == id_hoadon);
+                var list = (from lp in dbContext.lephis
+                            from hd in lp.hoadons   
+                            join pt in dbContext.phongtroes on hd.id_phong equals pt.id_phong
+                            where pt.id_chutro == id_chutro   
+                            select new lephiViewModel
+                            {
+                                id_lephi = lp.id_lephi,
+                                ngay_tao = lp.ngay_tao,
+                                tien_phong = lp.tien_phong,
+                                tien_dv = lp.tien_dv,
+                                thanh_tien_lephi = lp.thanh_tien_lephi,
+                                ten_phong = pt.tenphong
+                            }).ToList();
 
-                // Trả về chi tiết Lệ Phí từ Hóa đơn (có thể là null nếu không tìm thấy)
-                return hoadon?.lephi;
+                return list;
             }
         }
+
+        public List<lephiViewModel> LayTatCaLePhiTheoKeyword(string id_chutro, string keyword)
+        {
+            using (var dbContext = new ContextDB())
+            {
+                string searchKeyword = (keyword ?? string.Empty).ToLower();
+
+                var query = from lp in dbContext.lephis
+                            from hd in lp.hoadons
+                            join pt in dbContext.phongtroes on hd.id_phong equals pt.id_phong
+                            where pt.id_chutro == id_chutro
+                            select new lephiViewModel
+                            {
+                                id_lephi = lp.id_lephi,
+                                ngay_tao = lp.ngay_tao,
+                                tien_phong = lp.tien_phong,
+                                tien_dv = lp.tien_dv,
+                                thanh_tien_lephi = lp.thanh_tien_lephi,
+                                ten_phong = pt.tenphong
+                            };
+
+                // Nếu có từ khóa thì lọc thêm
+                if (!string.IsNullOrEmpty(searchKeyword))
+                {
+                    query = query.Where(lp =>
+                        lp.id_lephi.ToLower().Contains(searchKeyword) ||
+                        lp.ten_phong.ToLower().Contains(searchKeyword)
+                    );
+                }
+
+                return query.ToList();
+            }
+        }
+
+
+
+
     }
+
 }
+

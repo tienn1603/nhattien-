@@ -382,5 +382,10 @@ namespace MAIN.main
                 MessageBox.Show($"Lỗi xuất Excel: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void frmNguoiThue_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

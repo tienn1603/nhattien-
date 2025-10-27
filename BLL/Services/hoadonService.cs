@@ -13,6 +13,9 @@ namespace BLL.Services
     public class hoadonService
     {
         hoadonBLL hoadonBLL = new hoadonBLL();
+        nuocBLL nuocBLL = new nuocBLL();
+        lephiBLL lephiBLL = new lephiBLL();
+
 
         public string ThemHoaDon(hoadon objHoaDon, dien objDien, nuoc objNuoc, lephi objLePhi, string id_chutro)
         {
@@ -85,10 +88,29 @@ namespace BLL.Services
             return hoadonBLL.LayTatCaHoaDonViewModelTheoKeywork(keyword, id_chutro);
         }
 
+
+        public List<nuocViewModel> LayTatCaBanGhiNuocTheoKeyword(string keyword, string id_chutro)
+        {
+            return nuocBLL.LayTatBanGhiNuocTheoKeyword(keyword, id_chutro);
+        }
+       
+    
+
         public List<hoadonViewModel> LayHoaDonChuaThanhToan(string id_chutro)
         {
             return hoadonBLL.LayHoaDonChuaThanhToan(id_chutro);
         }
+
+        public List<nuocViewModel> LayTatCaBanGhiNuoc(string id_chutro)
+        {
+            return nuocBLL.LayTatCaBanGhiNuoc(id_chutro);
+        }
+
+        public List<lephiViewModel> LayBanGhiLePhiTheoHoaDonId(string id_hoadon)
+        {
+            return lephiBLL.LayBanGhiLePhiTheoHoaDonId(id_hoadon);
+        }
+
 
         public string CapNhat(hoadon objHoaDon, dien objDien, nuoc objNuoc, lephi objLePhi, string id_chutro)
         {
@@ -122,10 +144,10 @@ namespace BLL.Services
             }
         }
 
-        public string Xoa(string id_HoaDon , string id_chutro)
+        public string Xoa(string id_HoaDon, string id_chutro)
         {
-                try
-                {
+            try
+            {
                 // Thực hiện xóa hóa đơn trong DB (gọi BLL)
                 bool isSuccess = hoadonBLL.XoaHoaDon(id_HoaDon, id_chutro);
                 if (isSuccess)
@@ -141,6 +163,11 @@ namespace BLL.Services
             {
                 return "Lỗi hệ thống khi xóa dữ liệu: " + ex.Message;
             }
+        }
+
+        public List<lephiViewModel> LayTatCaLePhiTheoKeyword(string id_chutrohientai, string keyword)
+        {
+            return lephiBLL.LayTatCaLePhiTheoKeyword(id_chutrohientai, keyword);
         }
     }
 }

@@ -315,6 +315,7 @@
             this.Controls.Add(this.txtID);
             this.Name = "frmNguoiThue";
             this.Text = "Quản lý người thuê trọ";
+            this.Load += new System.EventHandler(this.frmNguoiThue_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvNguoiThue)).EndInit();

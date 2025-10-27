@@ -1,50 +1,182 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub Project\\nhattien-\\nhattien-\\",
+  "WorkspaceRootPath": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\hoadonbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|c:\\github project\\nhattien-\\nhattien-\\bll\\bll\\phongtrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\phongtrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|c:\\users\\nhat tuyen\\source\\repos\\rental-management-system---\\bll\\bll\\nuocbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\nuocbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\bll\\lephibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\lephibll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmnuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\hoadonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\hoadonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\lephi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\lephi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmlephi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmlephi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\services\\hoadonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\lephiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\lephiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\nuocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\nuocviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\phongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\hopdongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\hopdongviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmquanly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\nguoi_thue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\nguoi_thue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\bll\\nguoithuebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\nguoithuebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\nuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\nuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\model\\dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\model\\dien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\nguoithueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\nguoithueviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\viewmodel\\thanhtoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\viewmodel\\thanhtoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmphongtro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmnguoithue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\bll\\dienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\dienbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD765009-1C1B-40EC-A75F-C866A9C28304}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmchitietthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmchitietthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmchutro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmchutro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmlephi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmlephi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|c:\\github project\\nhattien-\\nhattien-\\main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmdien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\bll\\bll\\phongtrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7211-22A7-4561-BFFF-4E848A7A8525}|BLL\\BLL.csproj|solutionrelative:bll\\bll\\phongtrobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48676C22-56CC-475C-8837-F72388EA869D}|MAIN\\MAIN.csproj|solutionrelative:main\\main\\frmhopdong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +186,542 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmNuoc.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNuoc.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmNuoc.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNuoc.cs",
+              "RelativeToolTip": "MAIN\\main\\frmNuoc.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAArwGoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:02:41.033Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmThanhToan.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmThanhToan.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmThanhToan.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmThanhToan.cs",
-              "RelativeToolTip": "MAIN\\main\\frmThanhToan.cs",
-              "ViewState": "AgIAAKwCAAAAAAAAAAAAAAUDAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:36:30.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "phongtroBLL.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\BLL\\BLL\\phongtroBLL.cs",
-              "RelativeDocumentMoniker": "BLL\\BLL\\phongtroBLL.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\BLL\\BLL\\phongtroBLL.cs",
-              "RelativeToolTip": "BLL\\BLL\\phongtroBLL.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAIwH8AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:35:10.648Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "frmHoaDon.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHoaDon.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmHoaDon.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHoaDon.cs",
-              "RelativeToolTip": "MAIN\\main\\frmHoaDon.cs",
-              "ViewState": "AgIAABECAAAAAAAAAAAQwGwCAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:25:58.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmThanhToan.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmThanhToan.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmThanhToan.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmThanhToan.cs [Design]",
-              "RelativeToolTip": "MAIN\\main\\frmThanhToan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:24:02.733Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmHopDong.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHopDong.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmHopDong.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHopDong.cs",
-              "RelativeToolTip": "MAIN\\main\\frmHopDong.cs",
-              "ViewState": "AgIAAL4BAAAAAAAAAAAAANABAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:22:15.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmNguoiThue.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmNguoiThue.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmNguoiThue.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmNguoiThue.cs",
-              "RelativeToolTip": "MAIN\\main\\frmNguoiThue.cs",
-              "ViewState": "AgIAAF8BAAAAAAAAAAAYwH8BAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:17:31.601Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "frmPhongTro.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmPhongTro.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmPhongTro.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmPhongTro.cs [Design]",
-              "RelativeToolTip": "MAIN\\main\\frmPhongTro.cs [Design]",
+              "Title": "nuocBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\nuocBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\nuocBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\nuocBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\nuocBLL.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAmwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:17:03.642Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmHopDong.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHopDong.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmHopDong.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHopDong.cs [Design]",
-              "RelativeToolTip": "MAIN\\main\\frmHopDong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:16:08.848Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmHoaDon.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHoaDon.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmHoaDon.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmHoaDon.cs [Design]",
-              "RelativeToolTip": "MAIN\\main\\frmHoaDon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:16:06.262Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmNguoiThue.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmNguoiThue.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmNguoiThue.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmNguoiThue.cs [Design]",
-              "RelativeToolTip": "MAIN\\main\\frmNguoiThue.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:14:27.216Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-27T02:48:25.638Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "frmPhongTro.cs",
-              "DocumentMoniker": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmPhongTro.cs",
-              "RelativeDocumentMoniker": "MAIN\\main\\frmPhongTro.cs",
-              "ToolTip": "C:\\GitHub Project\\nhattien-\\nhattien-\\MAIN\\main\\frmPhongTro.cs",
-              "RelativeToolTip": "MAIN\\main\\frmPhongTro.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCEAAAA9AAAAAAAAAA==",
+              "Title": "frmNguoiThue.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNguoiThue.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmNguoiThue.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNguoiThue.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmNguoiThue.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T06:02:01.96Z",
+              "WhenOpened": "2025-10-27T02:38:22.007Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmNuoc.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNuoc.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmNuoc.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNuoc.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmNuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:50:44.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hoadonBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\hoadonBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\hoadonBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\hoadonBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\hoadonBLL.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAkwMkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:00:02.034Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmQuanLy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmQuanLy.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmQuanLy.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmQuanLy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:34:35.264Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "hoadonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\hoadonViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\hoadonViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\hoadonViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\hoadonViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:25:47.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "hoadon.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\hoadon.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\hoadon.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\hoadon.cs",
+              "RelativeToolTip": "DAL\\Model\\hoadon.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA/wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:46:34.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lephiBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\lephiBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\lephiBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\lephiBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\lephiBLL.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwFEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:10:02.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmLePhi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmLePhi.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmLePhi.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmLePhi.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmLePhi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:54:31.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "lephi.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\lephi.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\lephi.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\lephi.cs",
+              "RelativeToolTip": "DAL\\Model\\lephi.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:21:26.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "hoadonService.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\Services\\hoadonService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\hoadonService.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\Services\\hoadonService.cs",
+              "RelativeToolTip": "BLL\\Services\\hoadonService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAcwKkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:25:57.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lephiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\lephiViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\lephiViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\lephiViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\lephiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:06:40.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmPhongTro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmPhongTro.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmPhongTro.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmPhongTro.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmPhongTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:17:03.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "nuocViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\nuocViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\nuocViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\nuocViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\nuocViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:08:15.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmDien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmDien.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmDien.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmDien.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:07:42.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "phongtro.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\phongtro.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\phongtro.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\phongtro.cs",
+              "RelativeToolTip": "DAL\\Model\\phongtro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:01:42.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "hopdongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\hopdongViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\hopdongViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\hopdongViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\hopdongViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:45:58.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmQuanLy.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmQuanLy.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmQuanLy.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmQuanLy.cs",
+              "RelativeToolTip": "MAIN\\main\\frmQuanLy.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:55:39.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:16:06.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "nguoi_thue.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\nguoi_thue.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\nguoi_thue.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\nguoi_thue.cs",
+              "RelativeToolTip": "DAL\\Model\\nguoi_thue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:33:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContextDB.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\ContextDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\ContextDB.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\ContextDB.cs",
+              "RelativeToolTip": "DAL\\Model\\ContextDB.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAYwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:42:20.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "nguoithueBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\nguoithueBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\nguoithueBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\nguoithueBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\nguoithueBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:13:56.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "nuoc.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\nuoc.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\nuoc.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\nuoc.cs",
+              "RelativeToolTip": "DAL\\Model\\nuoc.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:13:36.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dien.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\dien.cs",
+              "RelativeDocumentMoniker": "DAL\\Model\\dien.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\Model\\dien.cs",
+              "RelativeToolTip": "DAL\\Model\\dien.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:20:32.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "nguoithueViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\nguoithueViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\nguoithueViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\nguoithueViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\nguoithueViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:46:05.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "thanhtoanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\thanhtoanViewModel.cs",
+              "RelativeDocumentMoniker": "DAL\\ViewModel\\thanhtoanViewModel.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\ViewModel\\thanhtoanViewModel.cs",
+              "RelativeToolTip": "DAL\\ViewModel\\thanhtoanViewModel.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:46:07.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmPhongTro.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmPhongTro.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmPhongTro.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmPhongTro.cs",
+              "RelativeToolTip": "MAIN\\main\\frmPhongTro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:02:01.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmNguoiThue.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNguoiThue.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmNguoiThue.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmNguoiThue.cs",
+              "RelativeToolTip": "MAIN\\main\\frmNguoiThue.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAiwEoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:33:16.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\Program.cs",
+              "RelativeDocumentMoniker": "MAIN\\Program.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\Program.cs",
+              "RelativeToolTip": "MAIN\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:24:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dienBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\dienBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\dienBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\dienBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\dienBLL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:54:57.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHoaDon.cs",
+              "RelativeToolTip": "MAIN\\main\\frmHoaDon.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAMwL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:25:58.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmThanhToan.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmThanhToan.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmThanhToan.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:38:25.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-26T10:45:57.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LOGIN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\LOGIN.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\LOGIN.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\LOGIN.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\LOGIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:33:51.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmChiTietThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmChiTietThanhToan.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmChiTietThanhToan.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmChiTietThanhToan.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmChiTietThanhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:46:06.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmChuTro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmChuTro.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmChuTro.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmChuTro.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmChuTro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:46:45.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmLePhi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmLePhi.Designer.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmLePhi.Designer.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmLePhi.Designer.cs",
+              "RelativeToolTip": "MAIN\\main\\frmLePhi.Designer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAcwAEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:36:42.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\App.config",
+              "RelativeDocumentMoniker": "MAIN\\App.config",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\App.config",
+              "RelativeToolTip": "MAIN\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-26T10:52:42.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmHopDong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHopDong.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmHopDong.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHopDong.cs [Design]",
+              "RelativeToolTip": "MAIN\\main\\frmHopDong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:16:08.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmDien.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmDien.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmDien.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmDien.cs",
+              "RelativeToolTip": "MAIN\\main\\frmDien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:53:58.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\App.config",
+              "RelativeDocumentMoniker": "BLL\\App.config",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\App.config",
+              "RelativeToolTip": "BLL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-26T10:52:34.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "phongtroBLL.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\phongtroBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL\\phongtroBLL.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\BLL\\BLL\\phongtroBLL.cs",
+              "RelativeToolTip": "BLL\\BLL\\phongtroBLL.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAIwH8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:35:10.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmHopDong.cs",
+              "DocumentMoniker": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHopDong.cs",
+              "RelativeDocumentMoniker": "MAIN\\main\\frmHopDong.cs",
+              "ToolTip": "C:\\Users\\NHAT TUYEN\\source\\repos\\rental-management-system---\\MAIN\\main\\frmHopDong.cs",
+              "RelativeToolTip": "MAIN\\main\\frmHopDong.cs",
+              "ViewState": "AgIAAL4BAAAAAAAAAAAAANABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T06:22:15.067Z"
             }
           ]
         },
